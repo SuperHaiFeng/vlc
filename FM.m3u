@@ -1,8 +1,7 @@
 #EXTM3U
 
-#PLAYLIST:我的电台收藏
+#PLAYLIST:NEWS Broadcast
 
-#EXTGRP:新闻
 #EXTINF:9,CRI 中国国际广播电台网络电台- 新闻电台  
 https://sk.cri.cn/905.m3u8
 
@@ -18,34 +17,6 @@ https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:9,中文国际伴音
 https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
 
-#EXTGRP:音乐
-#EXTINF:9,星岛中文电台
-https://nap.casthost.net/proxy/florence/stream
-
-#EXTINF:0,AsiaFM HD音乐台
-http://lhttp.qingting.fm/live/5022405/64k.mp3
-
-#EXTINF:0,AsiaFM 亚洲音乐台
-https://lhttp.qingting.fm/live/4581/64k.mp3
-
-#EXTINF:9,CRI Hit FM (音乐 /流行)
-https://sk.cri.cn/887.m3u8
-
-#EXTINF:35,萤火虫网络电台
-http://live.xmcdn.com/live/1006/64.m3u8
-
-#EXTINF:40,音乐之声
-https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-
-#EXTINF:9,清晨音乐台
-https://lhttp.qtfm.cn/live/4915/64k.mp3
-
-#EXTINF:9,中国音乐-德国
-https://vip.wongsong.cn/proxy/wongsong/stream-mp3-WongSong
-
-#EXTINF:35,上海动感101 FM101.7
-https://live.xmcdn.com/live/53/64.m3u8
-
 #EXTINF:9,海峡之声
 https://lhttp.qtfm.cn/live/1744/64k.mp3
 
@@ -60,12 +31,6 @@ https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 
 #EXTINF:9,塞浦路斯中文广播
 https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
-
-#EXTINF:0,美国舞曲电台
-https://ice5.securenetsystems.net/USADANCE
-
-#EXTINF:30,Julian Vaughn - Ride Along
-https://stream.revma.ihrhls.com/zc8170/hls.m3u8
 
 #EXTINF:9,美国中文电台-西雅图
 http://kxparadio.serverroom.us:5852/stream.mp3
@@ -93,3 +58,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRDCAAC.aac
 
 #EXTINF:9,ABN China TV (United States)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+
+
