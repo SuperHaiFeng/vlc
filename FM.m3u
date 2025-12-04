@@ -1,0 +1,95 @@
+#EXTM3U
+
+#PLAYLIST:我的电台收藏
+
+#EXTGRP:新闻
+#EXTINF:9,CRI 中国国际广播电台网络电台- 新闻电台  
+https://sk.cri.cn/905.m3u8
+
+#EXTINF:9,CRI 中文环球广播
+https://sk.cri.cn/hyhq.m3u8
+
+#EXTINF:60,CNR-1 中国之声
+https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+
+#EXTINF:60,(CNR 经济之声) 中央人民广播电台经济之声 
+https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+
+#EXTINF:9,中文国际伴音
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+
+#EXTGRP:音乐
+#EXTINF:9,星岛中文电台
+https://nap.casthost.net/proxy/florence/stream
+
+#EXTINF:0,AsiaFM HD音乐台
+http://lhttp.qingting.fm/live/5022405/64k.mp3
+
+#EXTINF:0,AsiaFM 亚洲音乐台
+https://lhttp.qingting.fm/live/4581/64k.mp3
+
+#EXTINF:9,CRI Hit FM (音乐 /流行)
+https://sk.cri.cn/887.m3u8
+
+#EXTINF:35,萤火虫网络电台
+http://live.xmcdn.com/live/1006/64.m3u8
+
+#EXTINF:40,音乐之声
+https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+
+#EXTINF:9,清晨音乐台
+https://lhttp.qtfm.cn/live/4915/64k.mp3
+
+#EXTINF:9,中国音乐-德国
+https://vip.wongsong.cn/proxy/wongsong/stream-mp3-WongSong
+
+#EXTINF:35,上海动感101 FM101.7
+https://live.xmcdn.com/live/53/64.m3u8
+
+#EXTINF:9,海峡之声
+https://lhttp.qtfm.cn/live/1744/64k.mp3
+
+#EXTINF:9,中国国际广播电台轻松调频
+https://sk.cri.cn/915.m3u8
+
+#EXTINF:9,南海之声
+http://sk.cri.cn/nhzs.m3u8
+
+#EXTINF:30,香港电台普通话台（流行音乐）
+https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+
+#EXTINF:9,塞浦路斯中文广播
+https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+
+#EXTINF:0,美国舞曲电台
+https://ice5.securenetsystems.net/USADANCE
+
+#EXTINF:30,Julian Vaughn - Ride Along
+https://stream.revma.ihrhls.com/zc8170/hls.m3u8
+
+#EXTINF:9,美国中文电台-西雅图
+http://kxparadio.serverroom.us:5852/stream.mp3
+
+#EXTINF:9,美国之音
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFMAAC.aac
+
+#EXTINF:9,美国家庭广播电台今日生活广播AFR谈话节目
+https://mediaserver3.afa.net:8443/talk.mp3
+
+#EXTINF:9,NBC新闻广播
+https://tunein.cdnstream1.com/3511_96.mp3
+
+#EXTINF:9,联邦新闻广播电台
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAMAAC.aac
+
+#EXTINF:9,彭博社 全球商业报道
+https://stream.revma.ihrhls.com/zc7094/hls.m3u8
+
+#EXTINF:9,纽约之声
+https://stream.revma.ihrhls.com/zc5874/hls.m3u8
+
+#EXTINF:9,彭博广播电台：华尔街倾听，世界倾听。纽约商业和金融领袖
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRDCAAC.aac
+
+#EXTINF:9,ABN China TV (United States)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
