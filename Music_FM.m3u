@@ -1,9 +1,6 @@
 #EXTM3U
 #PLAYLIST:Music Radio
 
-#EXTINF:9,星岛中文电台
-https://nap.casthost.net/proxy/florence/stream
-
 #EXTINF:0,AsiaFM HD音乐台
 http://lhttp.qingting.fm/live/5022405/64k.mp3
 

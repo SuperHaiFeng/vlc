@@ -32,6 +32,9 @@ https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
 #EXTINF:9,海峡之声
 https://lhttp.qtfm.cn/live/1744/64k.mp3
 
+#EXTINF:9,星岛中文电台
+https://nap.casthost.net/proxy/florence/stream
+
 #EXTINF:9,中国国际广播电台轻松调频
 https://sk.cri.cn/915.m3u8
 
