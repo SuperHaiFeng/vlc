@@ -14,7 +14,7 @@ https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:60,(CNR 经济之声) 中央人民广播电台经济之声 
 https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 
-#EXTINF:9,财经伴音
+#EXTINF:9,央视财经伴音
 https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 
 #EXTINF:9,第一财经电视伴音
@@ -71,3 +71,5 @@ https://stream.revma.ihrhls.com/zc5874/hls.m3u8
 #EXTINF:9,彭博广播电台：华尔街倾听，世界倾听。纽约商业和金融领袖
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRDCAAC.aac
 
+#EXTINF:9,国际新闻
+https://lhttp.qtfm.cn/live/20500172/64k.mp3
