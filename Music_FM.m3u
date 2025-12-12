@@ -7,6 +7,12 @@ http://lhttp.qingting.fm/live/5022405/64k.mp3
 #EXTINF:0,AsiaFM 亚洲音乐台
 https://lhttp.qingting.fm/live/4581/64k.mp3
 
+#EXTINF:9,AsiaFM高清音乐台
+http://asiafm.hk:8000/asiahd
+
+#EXTINF:9,AsiaFM亚洲热歌台
+http://hot.asiafm.net:8000/asiafm
+
 #EXTINF:9,CRI Hit FM (音乐 /流行)
 https://sk.cri.cn/887.m3u8
 
@@ -36,3 +42,9 @@ https://lhttp.qtfm.cn/live/20500161/64k.mp3
 
 #EXTINF:9,动听音乐网络电台
 https://lhttp.qtfm.cn/live/5022107/64k.mp3
+
+#EXTINF:9,Bridge Radio-华语 HITS
+https://das-edge11-live365-dal03.cdnstream.com/a57743_2
+
+#EXTINF:9,CityFM城市音乐台
+https://lhttp.qtfm.cn/live/20500153/64k.mp3
