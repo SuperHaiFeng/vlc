@@ -1,6 +1,6 @@
 ### 订阅源
 
-[音乐FM](https://http://www.matata.tech/vlc/Music_FM.m3u)
+[音乐FM](https://www.matata.tech/vlc/Music_FM.m3u)
 
 [音乐](https://www.matata.tech/vlc/Musics.m3u)
 
